@@ -1,5 +1,11 @@
 ## Mohammed Shaad N
 Software Engineer · Django · DRF · PostgreSQL · React
+![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Full%20Time-0F6E56?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
 I build backend systems that power SaaS products — multi-tenant architecture, 
 clean APIs, real-time layers, and async workflows. Currently building **Grove**, 
