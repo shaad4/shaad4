@@ -30,9 +30,13 @@ global identity with per-membership roles, real-time updates via WebSockets,
 async task queue, and a full request management pipeline.
 
 → Global identity model — one account per email, roles resolved from `tenant_memberships` at login
+
 → Subdomain-scoped JWT auth — tenant resolved per request via custom middleware
+
 → Service + Repository layer — views own HTTP only, all DB queries isolated to repositories
+
 → Real-time chat + live feed via Django Channels + WebSockets + Redis channel layer
+
 
 ---
 
