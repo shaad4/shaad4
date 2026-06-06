@@ -62,5 +62,7 @@ async task queue, and a full request management pipeline.
 ---
 
 📍 Kerala, India · Remote-friendly
+
 💼 Open to full-time backend or full-stack roles at product companies
+
 🌐 [shaad.site](https://shaad.site)
